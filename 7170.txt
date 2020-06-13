@@ -1,0 +1,10 @@
+linux/x86 xor-encoded Connect Back Shellcode 371 bytes
+======================================================
+
+# linux/x86 xor-encoded Connect Back Shellcode 371 bytes
+
+http://www.inj3ct0r.com/sploits/7170.tar.gz
+
+
+
+
